@@ -79,5 +79,6 @@ Reveals peak ordering hours for staffing optimization
 Shows revenue contribution by pizza category
 
 Highlights premium pricing opportunities
+
 <img width="323" height="231" alt="image" src="https://github.com/user-attachments/assets/76e1c836-3000-4159-a5fc-7fba442cc38a" />
 
